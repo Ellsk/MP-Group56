@@ -29,6 +29,8 @@ bin/
 gen/
 out/
 
+#Readme
+Readme
 # Gradle files
 .gradle/
 build/
