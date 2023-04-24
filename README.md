@@ -1,7 +1,5 @@
 # Therapeutic
 
-## Apk - https://github.com/develNerd/Therapeutic/blob/main/androidApp/release/androidApp-release6.apk
-
 Therapeutic is a Kotlin Mobile Multiplatform App that aims to help make access to mental health solutions as effortless as we can. We believe that making therapy an easy to have will help reduce the replications of mental health issues. The USA for example has had multiple mass shootings, studies have shown that most of the culprits may have suffered some form of mental health issue. 
 
 Studies have shown that one in five (5) people may experience mental health issues at some point in their life. Mental health issues might not only have an effect on the patient, as he interacts with others this might extend to damage their relationships with others as well as extend to people they interact with.
